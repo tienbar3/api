@@ -1,7 +1,10 @@
 {
   "posts": [
     {
-      BTC
+      {
+      "id": 1,
+      "title": "BTC"
+    }
     }
   ],
   "profile": {
